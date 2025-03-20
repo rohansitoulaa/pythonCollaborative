@@ -1,4 +1,4 @@
 def Sub():
-    firstValue = input("Enter the first number: ")
-    secondValue =input("Enter the second number: ")
+    firstValue = int(input("Enter the first number: "))
+    secondValue =int(input("Enter the second number: "))
     return firstValue - secondValue
